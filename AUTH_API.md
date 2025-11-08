@@ -87,3 +87,4 @@ Authorization: Bearer <access_token>
 - JWT токен действителен 24 часа
 - Для production рекомендуется установить переменную окружения `JWT_SECRET`
 
+
